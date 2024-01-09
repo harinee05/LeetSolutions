@@ -1,13 +1,13 @@
 public class Solution {
     public int MinimumSum(int num) {
-        int[] digits = new int[4];
-        int x=num,i=0;
-        while(x>0){
-            digits[i] = x%10;
-            i++;
-            x=x/10;
+        int[] splitn= new int[4];
+        int i=0;
+        while(num>0){
+            splitn[i] = num % 10;
+            ++i;
+            num /= 10;
         }
-        Array.Sort(digits);
-        return ((digits[2]+digits[3])+10*(digits[1]+digits[0]));
+        Array.Sort(splitn);
+        return 10*(splitn[0]+splitn[1])+ splitn[2]+splitn[3];
     }
 }
