@@ -15,7 +15,6 @@ public class Solution {
            finalSum= Math.Abs(sum - customers[i][0]);
            }
            av+=finalSum;
-           Console.WriteLine(finalSum);
         }
         return av/customers.Length;
     }
