@@ -3,13 +3,12 @@ class Solution:
         
         t, a = customers[0][0] + customers[0][1], customers[0][1]
 
-        for x in customers[1:]:
-            # t = max(t, x[0]) + x[1]
-            if t > x[0]:
-                t+=x[1]
+        for x, y in customers[1:]:
+            if t > x:
+                t+=y
             else:
-                t=x[0]+x[1]
-            a += t - x[0]
+                t=x+y
+            a += t - x
 
         return a/len(customers)
             
