@@ -8,7 +8,7 @@ class Solution:
             if t > x[0]:
                 t+=x[1]
             else:
-                t=sum(x)
+                t=x[0]+x[1]
             a += t - x[0]
 
         return a/len(customers)
