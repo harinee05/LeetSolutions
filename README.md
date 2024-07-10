@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/harinee05/LeetSolutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/harinee05/LeetSolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harinee05/LeetSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/harinee05/LeetSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Tree
 |  |
@@ -62,11 +63,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/harinee05/LeetSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/harinee05/LeetSolutions/tree/master/1720-crawler-log-folder) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/harinee05/LeetSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
 | ------- |
