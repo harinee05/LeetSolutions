@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/harinee05/LeetSolutions/tree/master/1293-three-consecutive-odds) |
 | [1803-average-waiting-time](https://github.com/harinee05/LeetSolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harinee05/LeetSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Tree
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/harinee05/LeetSolutions/tree/master/1184-car-pooling) |
 | [1803-average-waiting-time](https://github.com/harinee05/LeetSolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harinee05/LeetSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -56,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/harinee05/LeetSolutions/tree/master/1184-car-pooling) |
+## Two Pointers
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
