@@ -70,10 +70,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harinee05/LeetSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/harinee05/LeetSolutions/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/harinee05/LeetSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harinee05/LeetSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/harinee05/LeetSolutions/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
