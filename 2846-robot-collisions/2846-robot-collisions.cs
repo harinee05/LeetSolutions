@@ -12,6 +12,7 @@ public class Solution {
         robots.Sort((a, b) => a.position.CompareTo(b.position));
 
         var stack = new Stack<(int health, char direction, int index)>();
+
         for (int i = 0; i < robots.Count; i++) {
             var robot = robots[i];
             if (robot.direction == 'R') {
@@ -21,13 +22,14 @@ public class Solution {
                 while (stack.Count > 0 && stack.Peek().direction == 'R') {
                     var rightRobot = stack.Pop();
                     if (rightRobot.health > robot.health) {
-                        stack.Push((rightRobot.health - 1, rightRobot.direction, rightRobot.index));
-                        robot = (robot.position, 0, robot.direction, robot.index); // left robot is destroyed
+                        rightRobot.health -= 1;
+                        stack.Push(rightRobot);
+                        robot.health = 0; // left robot is destroyed
                         break;
                     } else if (rightRobot.health < robot.health) {
-                        robot = (robot.position, robot.health - 1, robot.direction, robot.index);
+                        robot.health -= 1;
                     } else {
-                        robot = (robot.position, 0, robot.direction, robot.index); // both robots are destroyed
+                        robot.health = 0; // both robots are destroyed
                         break;
                     }
                 }
@@ -37,13 +39,11 @@ public class Solution {
             }
         }
 
-        // Create a list to store the healths of the surviving robots in the order of their original indices
-        var result = new int[n];
-        foreach (var robot in stack) {
-            result[robot.index] = robot.health;
-        }
+        // Collect the healths of the surviving robots in the order of their original indices
+        var survivors = stack.ToList();
+        survivors.Sort((a, b) => a.index.CompareTo(b.index));
 
-        // Return a list of non-zero healths
-        return result.Where(h => h > 0).ToList();
+        // Return the healths of the surviving robots
+        return survivors.Select(robot => robot.health).ToList();
     }
 }
