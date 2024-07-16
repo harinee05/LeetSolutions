@@ -13,12 +13,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harinee05/LeetSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/harinee05/LeetSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/harinee05/LeetSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/harinee05/LeetSolutions/tree/master/2846-robot-collisions) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/harinee05/LeetSolutions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harinee05/LeetSolutions/tree/master/0100-same-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/harinee05/LeetSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harinee05/LeetSolutions/tree/master/0100-same-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/harinee05/LeetSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +100,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/harinee05/LeetSolutions/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/harinee05/LeetSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
