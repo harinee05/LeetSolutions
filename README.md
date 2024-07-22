@@ -13,6 +13,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/harinee05/LeetSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/harinee05/LeetSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/harinee05/LeetSolutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/harinee05/LeetSolutions/tree/master/2846-robot-collisions) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/harinee05/LeetSolutions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Tree
@@ -61,6 +62,7 @@
 | ------- |
 | [0726-number-of-atoms](https://github.com/harinee05/LeetSolutions/tree/master/0726-number-of-atoms) |
 | [1184-car-pooling](https://github.com/harinee05/LeetSolutions/tree/master/1184-car-pooling) |
+| [2502-sort-the-people](https://github.com/harinee05/LeetSolutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/harinee05/LeetSolutions/tree/master/2846-robot-collisions) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/harinee05/LeetSolutions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Heap (Priority Queue)
@@ -86,6 +88,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/harinee05/LeetSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/harinee05/LeetSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2502-sort-the-people](https://github.com/harinee05/LeetSolutions/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -104,4 +107,5 @@
 | ------- |
 | [0726-number-of-atoms](https://github.com/harinee05/LeetSolutions/tree/master/0726-number-of-atoms) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/harinee05/LeetSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/harinee05/LeetSolutions/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
