@@ -3,7 +3,7 @@ public class Solution {
        var details = names.Zip(heights, (name, height) => new { Name = name, Height = height })
                           .OrderByDescending(person => person.Height)
                           .ToList();
-        string[] sortedDetails = details.Select(p => p.Name).ToArray();
-        return sortedDetails;
+        
+        return details.Select(p => p.Name).ToArray();
     }
 }
