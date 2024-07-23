@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/harinee05/LeetSolutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harinee05/LeetSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/harinee05/LeetSolutions/tree/master/2645-pass-the-pillow) |
 ## Recursion
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/harinee05/LeetSolutions/tree/master/1184-car-pooling) |
+| [1642-water-bottles](https://github.com/harinee05/LeetSolutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/harinee05/LeetSolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harinee05/LeetSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
