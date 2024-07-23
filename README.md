@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harinee05/LeetSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2645-pass-the-pillow](https://github.com/harinee05/LeetSolutions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1803-average-waiting-time](https://github.com/harinee05/LeetSolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harinee05/LeetSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2645-pass-the-pillow](https://github.com/harinee05/LeetSolutions/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/harinee05/LeetSolutions/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
