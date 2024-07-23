@@ -1,11 +1,8 @@
 public class Solution {
     public int PassThePillow(int n, int time) {
-     int d = -1;
-     int rounds = time / (n-1);
-     int extra = time % (n-1);
-     if(rounds %2==0){
-        return extra+1;
+     if((time / (n-1)) %2==0){
+        return (time % (n-1))+1;
      }
-     return n-extra;
+     return n-(time % (n-1));
     }
 }
