@@ -51,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/harinee05/LeetSolutions/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/harinee05/LeetSolutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harinee05/LeetSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/harinee05/LeetSolutions/tree/master/2645-pass-the-pillow) |
@@ -179,6 +180,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/harinee05/LeetSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinee05/LeetSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/harinee05/LeetSolutions/tree/master/0139-word-break) |
 | [2755-extra-characters-in-a-string](https://github.com/harinee05/LeetSolutions/tree/master/2755-extra-characters-in-a-string) |
@@ -190,5 +192,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/harinee05/LeetSolutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/harinee05/LeetSolutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
