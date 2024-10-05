@@ -23,6 +23,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/harinee05/LeetSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/harinee05/LeetSolutions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/harinee05/LeetSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/harinee05/LeetSolutions/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/harinee05/LeetSolutions/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/harinee05/LeetSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -85,6 +86,7 @@
 | [1184-car-pooling](https://github.com/harinee05/LeetSolutions/tree/master/1184-car-pooling) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harinee05/LeetSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/harinee05/LeetSolutions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/harinee05/LeetSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/harinee05/LeetSolutions/tree/master/2846-robot-collisions) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/harinee05/LeetSolutions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Heap (Priority Queue)
@@ -106,6 +108,7 @@
 | [0567-permutation-in-string](https://github.com/harinee05/LeetSolutions/tree/master/0567-permutation-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/harinee05/LeetSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/harinee05/LeetSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -148,6 +151,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/harinee05/LeetSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/harinee05/LeetSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/harinee05/LeetSolutions/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/harinee05/LeetSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/harinee05/LeetSolutions/tree/master/2755-extra-characters-in-a-string) |
 ## Divide and Conquer
 |  |
