@@ -78,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/harinee05/LeetSolutions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/harinee05/LeetSolutions/tree/master/0455-assign-cookies) |
 | [0726-number-of-atoms](https://github.com/harinee05/LeetSolutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/harinee05/LeetSolutions/tree/master/0948-sort-an-array) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/harinee05/LeetSolutions/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/harinee05/LeetSolutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harinee05/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harinee05/LeetSolutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/harinee05/LeetSolutions/tree/master/0726-number-of-atoms) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/harinee05/LeetSolutions/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/harinee05/LeetSolutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harinee05/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harinee05/LeetSolutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/harinee05/LeetSolutions/tree/master/0726-number-of-atoms) |
