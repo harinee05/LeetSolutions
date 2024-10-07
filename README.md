@@ -75,6 +75,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/harinee05/LeetSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2645-pass-the-pillow](https://github.com/harinee05/LeetSolutions/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/harinee05/LeetSolutions/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
@@ -124,6 +125,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/harinee05/LeetSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/harinee05/LeetSolutions/tree/master/2502-sort-the-people) |
 | [2755-extra-characters-in-a-string](https://github.com/harinee05/LeetSolutions/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/harinee05/LeetSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -132,6 +134,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harinee05/LeetSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/harinee05/LeetSolutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/harinee05/LeetSolutions/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
