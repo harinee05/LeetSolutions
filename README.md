@@ -107,6 +107,7 @@
 | [0011-container-with-most-water](https://github.com/harinee05/LeetSolutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/harinee05/LeetSolutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/harinee05/LeetSolutions/tree/master/0567-permutation-in-string) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harinee05/LeetSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/harinee05/LeetSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/harinee05/LeetSolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harinee05/LeetSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -121,6 +122,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harinee05/LeetSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/harinee05/LeetSolutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harinee05/LeetSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/harinee05/LeetSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/harinee05/LeetSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/harinee05/LeetSolutions/tree/master/2502-sort-the-people) |
@@ -134,6 +136,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harinee05/LeetSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/harinee05/LeetSolutions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harinee05/LeetSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/harinee05/LeetSolutions/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -142,6 +145,7 @@
 | [0011-container-with-most-water](https://github.com/harinee05/LeetSolutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/harinee05/LeetSolutions/tree/master/0455-assign-cookies) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harinee05/LeetSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/harinee05/LeetSolutions/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Hash Table
 |  |
