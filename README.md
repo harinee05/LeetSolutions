@@ -13,6 +13,7 @@
 | [0921-spiral-matrix-iii](https://github.com/harinee05/LeetSolutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/harinee05/LeetSolutions/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/harinee05/LeetSolutions/tree/master/1184-car-pooling) |
+| [1256-rank-transform-of-an-array](https://github.com/harinee05/LeetSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/harinee05/LeetSolutions/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/harinee05/LeetSolutions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harinee05/LeetSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -85,6 +86,7 @@
 | [0726-number-of-atoms](https://github.com/harinee05/LeetSolutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/harinee05/LeetSolutions/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/harinee05/LeetSolutions/tree/master/1184-car-pooling) |
+| [1256-rank-transform-of-an-array](https://github.com/harinee05/LeetSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harinee05/LeetSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/harinee05/LeetSolutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harinee05/LeetSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -155,6 +157,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/harinee05/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harinee05/LeetSolutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/harinee05/LeetSolutions/tree/master/0726-number-of-atoms) |
+| [1256-rank-transform-of-an-array](https://github.com/harinee05/LeetSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harinee05/LeetSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/harinee05/LeetSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/harinee05/LeetSolutions/tree/master/2502-sort-the-people) |
