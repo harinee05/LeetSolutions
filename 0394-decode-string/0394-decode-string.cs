@@ -1,46 +1,45 @@
 using System;
 using System.Collections.Generic;
-using System.Text;
 
 public class Solution {
     public string DecodeString(string s) {
-        Stack<int> countStack = new Stack<int>();
-        Stack<string> stringStack = new Stack<string>();
-        StringBuilder currentString = new StringBuilder();
-        int currentNumber = 0;
-
+        Stack<char> st = new Stack<char>();
         foreach (char c in s) {
-            if (char.IsDigit(c)) {
-                // Build the current number
-                currentNumber = currentNumber * 10 + (c - '0');
-            } else if (c == '[') {
-                // Push the current number and string onto their respective stacks
-                countStack.Push(currentNumber);
-                stringStack.Push(currentString.ToString());
-                // Reset for the next segment
-                currentNumber = 0;
-                currentString.Clear();
-            } else if (c == ']') {
-                // Pop from the stacks and build the decoded string
-                string prevString = stringStack.Pop();
-                int repeatCount = countStack.Pop();
-                currentString = new StringBuilder(prevString + currentString.ToString().Repeat(repeatCount));
+            if (c != ']') {
+                st.Push(c);
             } else {
-                // Append the current character to the current string
-                currentString.Append(c);
+                string subst = "";
+                while (st.Peek() != '[') {
+                    subst = st.Pop() + subst;
+                }
+                st.Pop(); // Remove '['
+
+                // Now we need to get the number
+                string numStr = "";
+                while (st.Count > 0 && char.IsDigit(st.Peek())) {
+                    numStr = st.Pop() + numStr;
+                }
+                int count = int.Parse(numStr);
+
+                // Repeat the substring 'count' times
+                string decoded = "";
+                for (int i = 0; i < count; i++) {
+                    decoded += subst;
+                }
+
+                // Push the decoded string back to the stack
+                foreach (char d in decoded) {
+                    st.Push(d);
+                }
             }
         }
 
-        return currentString.ToString();
-    }
-}
-
-public static class StringExtensions {
-    public static string Repeat(this string str, int count) {
-        StringBuilder result = new StringBuilder();
-        for (int i = 0; i < count; i++) {
-            result.Append(str);
+        // Build the final result
+        string result = "";
+        while (st.Count > 0) {
+            result = st.Pop() + result;
         }
-        return result.ToString();
+
+        return result;
     }
 }
