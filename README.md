@@ -62,6 +62,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/harinee05/LeetSolutions/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harinee05/LeetSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -120,6 +121,7 @@
 | ------- |
 | [0139-word-break](https://github.com/harinee05/LeetSolutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/harinee05/LeetSolutions/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/harinee05/LeetSolutions/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harinee05/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harinee05/LeetSolutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/harinee05/LeetSolutions/tree/master/0726-number-of-atoms) |
@@ -137,6 +139,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/harinee05/LeetSolutions/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/harinee05/LeetSolutions/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/harinee05/LeetSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harinee05/LeetSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
