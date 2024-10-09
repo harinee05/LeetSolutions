@@ -1,7 +1,7 @@
 public class Solution {
     public int MinSwaps(string s) {
         Stack<char> mins = new Stack<char>();
-        int imbal =0;
+        
         if(s=="" || s=="[]")
             return 0;
         for(int i=0;i<s.Length;i++){
@@ -14,10 +14,10 @@ public class Solution {
                    
                 }
                  else
-                    imbal++;
+                    continue;
             }
             }
 
-        return (imbal+1)/2;
+        return (mins.Count+1)/2;
     }
 }
