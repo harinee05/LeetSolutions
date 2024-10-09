@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harinee05/LeetSolutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/harinee05/LeetSolutions/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinee05/LeetSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/harinee05/LeetSolutions/tree/master/0139-word-break) |
 | [0228-summary-ranges](https://github.com/harinee05/LeetSolutions/tree/master/0228-summary-ranges) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harinee05/LeetSolutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/harinee05/LeetSolutions/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/harinee05/LeetSolutions/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/harinee05/LeetSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harinee05/LeetSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -205,6 +207,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/harinee05/LeetSolutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/harinee05/LeetSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harinee05/LeetSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/harinee05/LeetSolutions/tree/master/0139-word-break) |
