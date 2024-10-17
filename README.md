@@ -12,6 +12,7 @@
 | [0139-word-break](https://github.com/harinee05/LeetSolutions/tree/master/0139-word-break) |
 | [0228-summary-ranges](https://github.com/harinee05/LeetSolutions/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/harinee05/LeetSolutions/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/harinee05/LeetSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0921-spiral-matrix-iii](https://github.com/harinee05/LeetSolutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/harinee05/LeetSolutions/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/harinee05/LeetSolutions/tree/master/1184-car-pooling) |
@@ -233,4 +234,5 @@
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harinee05/LeetSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harinee05/LeetSolutions/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/harinee05/LeetSolutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
